@@ -39,12 +39,11 @@ I specialise in data cleaning, transformation, and visualisation to uncover insi
 👉 https://github.com/Sharumathi22/social-media-analytics
 
 ---
-
-### 🤖 AI Pathfinding & CSP Solver
-- Implemented A* and Iterative Deepening Search (IDS)
-- Developed constraint satisfaction models (AC-3)
-- Solved complex problems with optimal solutions  
-👉 (Project link coming soon)
+### 📊 Sales Data Dashboard (Power BI)
+- Built an interactive dashboard to analyse sales, profit, and regional performance  
+- Created DAX measures to calculate KPIs such as total sales, total profit, and profit margin  
+- Identified business insights including top-performing regions and products  
+👉 https://github.com/Sharumathi22/sales-data-dashboard  
 
 ---
 
