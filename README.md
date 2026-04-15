@@ -27,7 +27,7 @@ I specialise in data cleaning, transformation, and visualisation to uncover insi
 ### 🚗 Car Sales Data Analysis
 - Cleaned and processed 30,000+ records using Python
 - Performed data transformation and feature engineering
-- Built Power BI dashboards to identify pricing trends  
+- Built dashboards to identify pricing trends  
 👉 https://github.com/Sharumathi22/Data-Analysis-on-Car-Advertisements
 
 ---
