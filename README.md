@@ -36,7 +36,7 @@ I specialise in data cleaning, transformation, and visualisation to uncover insi
 - Extracted data from YouTube, Reddit, and Spotify APIs
 - Performed sentiment analysis and topic modelling (LDA)
 - Analysed audience behaviour and engagement trends  
-👉 (Project link coming soon)
+👉 https://github.com/Sharumathi22/social-media-analytics
 
 ---
 
